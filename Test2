@@ -1,2 +1,6 @@
 this is second file
+<<<<<<< HEAD
 this is another line
+=======
+this is third line
+>>>>>>> e0a74ace47440724dd1890f370142c56a313deb8
